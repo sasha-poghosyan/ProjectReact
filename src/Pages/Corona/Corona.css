@@ -1,0 +1,19 @@
+p:nth-child(5) {
+    font-size: 25px;
+    margin: 5px;
+    color: red;
+}
+p {
+    font-size: 25px;
+    margin: 5px;
+}
+.inpCorona {
+    width: 250px;
+    height: 30px;
+    font-size: larger;
+    color: red;
+    text-align: center;
+    margin: 5px;
+    background-color: black;
+    border: 3px solid red;
+}

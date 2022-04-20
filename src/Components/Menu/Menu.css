@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#nav {
+    background-color: rgb(11, 12, 19);
+    width: 100%;
+    height: 100px;
+}
+
+
+
+.Li2 {
+    text-decoration: none;
+    color: rgb(253, 252, 252);
+    margin-top: 30px;
+    font-size: 25px;
+    text-decoration: dotted;
+    
+    
+}
+
+#ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    
+}
+.Li1{
+    text-decoration: none;
+    color: rgb(241, 235, 224);
+    margin-top: 30px;
+    font-size: 30px;
+}
+.Li1:hover{
+    color: gold;
+    font-size: 35px;
+    
+}

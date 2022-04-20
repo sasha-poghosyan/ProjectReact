@@ -1,0 +1,17 @@
+.inp{
+    width: 300px;
+    height: 45px;
+    margin: 5px;
+    margin-left: 600px;
+    border-radius: 30px;
+    text-align: center;
+    background-color: antiquewhite;
+    border: none;
+    outline: none;
+  
+}
+
+.globaldiv{
+    background-color: rgb(12, 182, 12);
+    height: 660px;
+}

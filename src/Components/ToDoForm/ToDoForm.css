@@ -1,0 +1,16 @@
+.inpForm{
+    width: 300px;
+    height: 40px;
+    border: 2px double rebeccapurple;
+    border-radius: 30px;
+    
+}
+.butForm{
+    width: 100px;
+    height: 40px;
+    color: brown;
+    background-color: aqua;
+    border-radius: 30px;
+    font-size: 20px;
+    margin: 5px;
+}
